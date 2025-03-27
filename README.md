@@ -1,4 +1,4 @@
-﻿# nteractive-Image-Gallery-
+﻿# Interactive-Image-Gallery-
 Key Features:
 ✅ OnMousehover to Change Main Image – Clicking a thumbnail updates the larger display.
 ✅ Border Highlight Effect – Selected image gets a blue border for clarity.
