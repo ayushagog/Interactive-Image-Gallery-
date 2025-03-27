@@ -1,6 +1,6 @@
 ﻿# nteractive-Image-Gallery-
 Key Features:
-✅ Click to Change Main Image – Clicking a thumbnail updates the larger display.
+✅ OnMousehover to Change Main Image – Clicking a thumbnail updates the larger display.
 ✅ Border Highlight Effect – Selected image gets a blue border for clarity.
 ✅ Smooth Transitions – CSS animations for a better user experience.
 ✅ Scrollable Thumbnails – A neat vertical list of images for easy selection.
